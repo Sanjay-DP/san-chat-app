@@ -36,7 +36,7 @@ https://github.com/Sanjay-DP/My-chat-app.git
 Clone the repository:
 
 ```bash
-git clone https://github.com/Sanjay-DP/My-chat-app.git
+gh repo clone Sanjay-DP/My-chat-app
 cd My-chat-app
 ```
 
