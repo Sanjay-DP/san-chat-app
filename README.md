@@ -6,7 +6,7 @@ A modern real-time chat application built using React, Firebase, and Cloudinary.
 This project enables users to communicate instantly with features like image sharing, message reactions, and user presence.
 
 ## 🚀 Live Demo
-https://github.com/Sanjay-DP/My-chat-app.git
+gh repo clone Sanjay-DP/san-chat-app
 
 ## 📌 Features
 
